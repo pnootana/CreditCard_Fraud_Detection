@@ -1,4 +1,4 @@
-In this project we will be first making our redictions using Machine Learning Techniques then we will be using Auto ML Technique to do the same. We will be using PyCaret in this notebook
+In this project we will be first making our predictions using Machine Learning Techniques then we will be using Auto ML Technique to do the same. We will be using PyCaret in this notebook
 
 Context
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase¶
@@ -11,14 +11,14 @@ It contains only numerical input variables which are the result of a PCA transfo
 Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.
 
 In this notebook we will perform the following task:
-Data Analysis
-Feature Engineering
-Model Building and Prediction using ML Techniques
-Model Building and Prediction using PyCaret(Auto ML)
+1. Data Analysis
+2. Feature Engineering
+3. Model Building and Prediction using ML Techniques
+4. Model Building and Prediction using PyCaret(Auto ML)
 
 We wil be using the following Models for our Anamoly Detection:
-Isolation Forest
-OneClassSVM
+a)Isolation Forest
+b)OneClassSVM
 
 Isolation Forest
 One of the newest techniques to detect anomalies is called Isolation Forests. The algorithm is based on the fact that anomalies are data points that are few and different. As a result of these properties, anomalies are susceptible to a mechanism called isolation.
