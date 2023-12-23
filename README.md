@@ -1,4 +1,5 @@
 In this project we will be first making our predictions using Machine Learning Techniques then we will be using Auto ML Technique to do the same. We will be using PyCaret in this notebook
+you can find the dataset here: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 Context
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase¶
